@@ -3196,7 +3196,7 @@ promise@^7.1.1:
   dependencies:
     asap "~2.0.3"
 
-prop-types@^15.5.10:
+prop-types@^15.5.10, prop-types@^15.6.0:
   version "15.6.0"
   resolved "https://registry.yarnpkg.com/prop-types/-/prop-types-15.6.0.tgz#ceaf083022fc46b4a35f69e13ef75aed0d639856"
   dependencies:
@@ -3273,7 +3273,7 @@ react-deep-force-update@^1.0.0:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/react-deep-force-update/-/react-deep-force-update-1.1.1.tgz#bcd31478027b64b3339f108921ab520b4313dc2c"
 
-"react-native-experimental-navigation@github:farkob/react-native-experimental-navigation":
+"react-native-experimental-navigation@github:farkob/react-native-experimental-navigation#c360530":
   version "0.27.0"
   resolved "https://codeload.github.com/farkob/react-native-experimental-navigation/tar.gz/c360530415b31429642b465eb724d213eb421c13"
   dependencies:
